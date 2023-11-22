@@ -1,3 +1,8 @@
-.Meaning {
-    padding: 1px;
+.Meaning h3 {
+    line-height: 1.5;
+    font-weight: 400;
+    font-size: 28px;
+    text-transform: capitalize;
+    padding: 0;
+    margin: 0;
 }

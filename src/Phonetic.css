@@ -1,0 +1,8 @@
+.phonetics h3 {
+    line-height: 1.5;
+    padding-left: 10px;
+    margin: 0;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-weight: 400;
+}
