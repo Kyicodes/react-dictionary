@@ -1,3 +1,7 @@
+.App {
+  background-image: url(comic-background.png);
+}
+
 footer {
   text-align: center;
 }
