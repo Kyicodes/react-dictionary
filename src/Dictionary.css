@@ -1,0 +1,31 @@
+.Dictionary {
+    margin: 0 auto;
+    padding: 30px;
+    max-width: 960px;
+    border-radius: 10px;
+
+}
+
+.Dictionary section {
+    background: #cb97ea;
+    border-radius: 10px;
+    box-shadow: rgba(187, 187, 187, 0.35) 0px 5px 15px;
+    padding: 5px;
+    margin: 7px;
+}
+
+.Dictionary .hint {
+    font-size: 18px;
+}
+
+.Dictionary label {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Dictionary input {
+    font-size: 23px;
+    opacity: 69%;
+    padding: 15px;
+    margin: 10px;
+}

@@ -4,7 +4,7 @@ import Dictionary from "./Dictonary";
 function App() {
   return (
     <div className="App">
-      <Dictionary defaultKeyword="fire" />
+      <Dictionary defaultKeyword="Fire" />
       <footer>
         <a
           href="https://github.com/Kyicodes/react-dictionary"
