@@ -6,10 +6,7 @@ function App() {
     <div className="App">
       <Dictionary defaultKeyword="Sea" />
       <footer>
-        <a
-          href="https://github.com/Kyicodes/react-dictionary"
-          className="text-decoration-none"
-        >
+        <a href="https://github.com/Kyicodes/react-dictionary" target="_blank">
           Open-source{" "}
         </a>
         by Ta'kyiah Jones
